@@ -1,5 +1,5 @@
 # Maven
-- task: Docker@2
+ task: Docker@2
   inputs:
     command: 'buildAndPush'
     Dockerfile: '**/Dockerfile'
